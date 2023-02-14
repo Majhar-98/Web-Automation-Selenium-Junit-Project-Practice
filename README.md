@@ -3,6 +3,11 @@
 JUnit is one of the leading frameworks for Java-based applications. In recent times, it has also been used to perform automation testing. 
 Test automation involves writing test cases with JUnit annotations and Selenium Webdriver to simulate user interactions with a website’s UI. 
 
+## Technology Used:
+- Intellij Idea
+- JDK-11
+- Gradle
+
 ## What are the essential qualities of a good test report?
 - 1. Brevity: 
 A report should be short and concise.
