@@ -8,6 +8,12 @@ Test automation involves writing test cases with JUnit annotations and Selenium 
 - JDK-11
 - Gradle
 
+## Framework:
+- JUnit
+
+## Website used for this automation:
+https://demoqa.com/
+
 ## What are the essential qualities of a good test report?
 - 1. Brevity: 
 A report should be short and concise.
