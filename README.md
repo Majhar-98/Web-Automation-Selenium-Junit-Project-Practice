@@ -24,3 +24,10 @@ It should support a format that you can share through email or integrate with CI
 It should highlight the test coverage for the following.
 Test coverage of the module under test.
 Test coverage of the application under test.
+
+## Junit Project Report:
+![Junit_Report](https://user-images.githubusercontent.com/123467715/218962984-269aabba-1c2f-4d65-ac6b-56704455797e.PNG)
+![Junit_report-2](https://user-images.githubusercontent.com/123467715/218963061-8799b9d0-9cc3-4cfd-8cf9-3facecc5b754.PNG)
+
+
+
