@@ -31,6 +31,15 @@ It should highlight the test coverage for the following.
 Test coverage of the module under test.
 Test coverage of the application under test.
 
+## How to run this project:
+## Prerequisites:
+- 1.You must have install jdk 1.8 or above
+- 2.You must have set JAVA_HOME and GRADLE_HOME Steps:
+- 3.Clone the project
+- 4.Open terminal inside the project folder
+- 5.Give following command:
+   - Gradle clean test
+
 ## Junit Project Report:
 ![Junit_Report](https://user-images.githubusercontent.com/123467715/218962984-269aabba-1c2f-4d65-ac6b-56704455797e.PNG)
 ![Junit_report-2](https://user-images.githubusercontent.com/123467715/218963061-8799b9d0-9cc3-4cfd-8cf9-3facecc5b754.PNG)
